@@ -1,4 +1,8 @@
-# Housing Values in Suburbs of Boston
+## Coffee and Code Sandbox
+
+Coffee and Code is a relaxed event for people who code or people who want to start. Bring a laptop and grab a coffee.Talk about what you're coding or what you're learning. Get help and share tips. 
+
+## Housing Values in Suburbs of Boston
 
 The **medv** variable is the target variable.
 
